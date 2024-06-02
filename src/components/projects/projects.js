@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+//import React, { useEffect, useState } from 'react';
 import './projects.css';
 import WowRename from '../../assets/wowrenameico.ico';
 import WowPlayer from '../../assets/wowplayerico.jpg';
@@ -28,7 +28,7 @@ const Projects = () => {
         </div>
         <div className='project-container'>
         <div className='project-item'>
-            <img src={WowRename} alt="project image 3" className='project-img'/>
+            <img src={WowRename} alt="" className='project-img'/>
             <h1 id="project-title">WowRename</h1>
             <p>
             WowRename is a batch renamer for multiple files in a directory, written in C and using the GTK Graphical User Interface.
@@ -37,7 +37,7 @@ const Projects = () => {
         </div>
 
         <div className='project-item'>
-            <img src={WowPlayer} alt="project image 1" className='project-img'/>
+            <img src={WowPlayer} alt="" className='project-img'/>
             <h1>WowPlayer</h1>
             <p>
               A music player that reads mp3s and plays them, it includes speed playback change and a playlist system utilizing the JSON format.
@@ -46,7 +46,7 @@ const Projects = () => {
         </div>
 
         <div className='project-item'>
-            <img src={CirnoSim} alt="project image 2" className='project-img'/>
+            <img src={CirnoSim} alt="" className='project-img'/>
             <h1>Cirno Simulator</h1>
             <p>A Game engine written in C++ and utilizing the GLFW library</p>
             <button className='btn' onClick={goto_cirnosim}>View Project</button>

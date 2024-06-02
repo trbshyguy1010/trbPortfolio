@@ -13,13 +13,15 @@
     position: sticky;
     top: 0;
     z-index: 3;
-    background-color: rgba(0,0,0,0.3);
+    background-color: rgba(0,0,0,1);
+    
 }
 
 .logo {
     object-fit: cover;
     height: 3rem;
-    width: 3rem;
+    width: 6.8rem;
+    filter: invert(1);
 }
 
 .nav-links {
