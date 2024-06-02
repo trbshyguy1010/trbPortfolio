@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7d8d9411.css",
+    "main.js": "/static/js/main.7d5daa7c.js",
+    "static/media/wowrenameico.ico": "/static/media/wowrenameico.b6729217ed6c7db0efee.ico",
+    "static/media/wowplayerico.jpg": "/static/media/wowplayerico.f401c95c82513643835d.jpg",
+    "static/media/trb_logo.png": "/static/media/trb_logo.6ab609d96b39cb9abc27.png",
+    "static/media/intro.jpg": "/static/media/intro.8877f5fd2397875cb455.jpg",
+    "static/media/cirnosim.jpg": "/static/media/cirnosim.25b3dc2d0fdf8b3accbc.jpg",
+    "index.html": "/index.html",
+    "main.7d8d9411.css.map": "/static/css/main.7d8d9411.css.map",
+    "main.7d5daa7c.js.map": "/static/js/main.7d5daa7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d8d9411.css",
+    "static/js/main.7d5daa7c.js"
+  ]
+}
